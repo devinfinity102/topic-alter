@@ -1,0 +1,3 @@
+topics:
+  - name: test01
+    partitions: 15
